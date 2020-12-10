@@ -18,7 +18,7 @@ The goals / steps of this project are the following:
 [image1]: ./test_images_output/solidWhiteCurve.jpg "Lane detected Image1"
 [image2]: ./test_images_output/solidWhiteRight.jpg "Lane detected Image2"
 [image3]: ./test_images_output/solidYellowCurve.jpg "Lane detected Image3"
-[image4]: ./test_images_output/solidYellowcurve2.jpg "Lane detected Image4"
+[image4]: ./test_images_output/solidYellowCurve2.jpg "Lane detected Image4"
 [image5]: ./test_images_output/solidYellowLeft.jpg "Lane detected Image5"
 [image6]: ./test_images_output/whiteCarLaneSwitch.jpg "Lane detected Image5"
 ---
@@ -51,15 +51,10 @@ My pipeline consisted of 5 steps. First, I converted the images to grayscale, th
 After processing image using above pipeline, the lane detected images look like this:
 
 ![alt text][image1]
-
 ![alt text][image2]
-
 ![alt text][image3]
-
 ![alt text][image4]
-
 ![alt text][image5]
-
 ![alt text][image6]
 
 
