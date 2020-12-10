@@ -55,7 +55,6 @@ After processing image using above pipeline, the lane detected images look like 
 ![alt text][image3]
 ![alt text][image4]
 ![alt text][image5]
-![alt text][image6]
 
 
 ### 2. Identify potential shortcomings with your current pipeline
